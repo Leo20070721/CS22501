@@ -4,16 +4,16 @@ HIT-CS22501(人工智能与自然语言理解)
 
 ---
 
-哈尔滨工业大学
-Harbin Institute of Technology
-课程名称：人工智能与自然语言理解
-课程英文名称：Artificial Intelligence & Natural Language Understanding
-课程代码：CS22501
-开课单位：计算学部
-授课教师：赵铁军
-授课对象：本科生（全校大一学生）
-课程学时：16 (讲课学时:16)
-先修课程：程序设计语言
+哈尔滨工业大学  
+Harbin Institute of Technology  
+课程名称：人工智能与自然语言理解  
+课程英文名称：Artificial Intelligence & Natural Language Understanding  
+课程代码：CS22501  
+开课单位：计算学部   
+授课教师：赵铁军  
+授课对象：本科生（全校大一学生）  
+课程学时：16 (讲课学时:16)  
+先修课程：程序设计语言  
 
 ---
 
